@@ -782,6 +782,10 @@ video {
     display: block;
   }
 
+  .print\:hidden {
+    display: none;
+  }
+
   .print\:border-t-neutral-900 {
     --tw-border-opacity: 1;
     border-top-color: rgb(23 23 23 / var(--tw-border-opacity, 1));
